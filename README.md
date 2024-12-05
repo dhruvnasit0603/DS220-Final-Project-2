@@ -33,4 +33,4 @@ To run this project locally, you need the following:
 
 Python 3.7+
 
-Libraries: Pandas, NumPy, Matplotlib.
+Libraries: Pandas, NumPy, Matplotlib and seaborn.

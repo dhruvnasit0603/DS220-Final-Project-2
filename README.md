@@ -6,9 +6,7 @@ Overview
 
 This project is a comprehensive analysis of an insurance claims dataset using Python. It showcases data preprocessing, exploratory data analysis (EDA), and visualization techniques to answer critical questions about the dataset. The results are shared in a clear, actionable manner, making the analysis valuable for decision-making and storytelling.
 
-Features
-
-Data Cleaning: Handled missing values and ensured the dataset is ready for analysis.
+Features:
 
 Exploratory Data Analysis (EDA): Generated visualizations to uncover patterns, correlations, and distributions in the data.
 

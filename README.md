@@ -25,7 +25,7 @@ Source: Kaggle
 
 Description: This dataset includes information about insurance claims, such as claim amounts, claimant age, and other relevant features.
 
-Requirements
+Requirements:
 
 To run this project locally, you need the following:
 

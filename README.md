@@ -1,5 +1,4 @@
 # DS220-Final-Project-
-README File
 
 Project Title: DS220 Project 2 - Data Analysis with Python
 

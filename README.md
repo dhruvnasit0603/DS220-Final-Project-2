@@ -19,9 +19,7 @@ Visualization: Utilized Matplotlib and Seaborn for insightful, visually engaging
 
 GitHub Pages Hosting: The final notebook is hosted online for ease of access.
 
-Dataset
-
-Name: Insurance Claims Dataset
+Dataset Name: Insurance Claims Dataset
 
 Source: Kaggle
 

@@ -32,4 +32,5 @@ To run this project locally, you need the following:
 Python 3.7+
 
 Libraries: Pandas, NumPy, Matplotlib and seaborn.
+
 Note: Download the dataset locally to run the code and change the "path" in code to where you stored the code in your system.
